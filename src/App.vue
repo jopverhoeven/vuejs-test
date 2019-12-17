@@ -31,7 +31,7 @@
     justify-content: center;
     align-items: center;
     padding: 15px 0;
-    position: absolute;
+    position: sticky;
     top: 0;
     left: 0;
     width: 100%;
